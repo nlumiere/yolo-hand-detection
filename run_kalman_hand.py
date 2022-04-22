@@ -1,3 +1,10 @@
+###########################
+# Nick Lumiere & Conor Simmons
+# CSCI 4831/5722
+# Final Project
+# Ioana Fleming
+###########################
+
 import argparse
 import cv2
 from kalman.kalman import KalmanFilter

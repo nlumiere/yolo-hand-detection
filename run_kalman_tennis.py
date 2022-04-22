@@ -1,3 +1,10 @@
+###########################
+# Nick Lumiere & Conor Simmons
+# CSCI 4831/5722
+# Final Project
+# Ioana Fleming
+###########################
+
 # detection adapted from https://github.com/radosz99/tennis-ball-detector/blob/main/detector.py
 
 import argparse

@@ -1,3 +1,10 @@
+###########################
+# Nick Lumiere & Conor Simmons
+# CSCI 4831/5722
+# Final Project
+# Ioana Fleming
+###########################
+
 import numpy as np
 
 class KalmanFilter():
